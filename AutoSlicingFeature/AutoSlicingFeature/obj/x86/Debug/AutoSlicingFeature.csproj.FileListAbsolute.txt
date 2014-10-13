@@ -1,0 +1,7 @@
+c:\users\erick\documents\visual studio 2013\Projects\AutoSlicingFeature\AutoSlicingFeature\AutoSlicingFeature\bin\x86\Debug\AutoSlicingFeature.exe
+c:\users\erick\documents\visual studio 2013\Projects\AutoSlicingFeature\AutoSlicingFeature\AutoSlicingFeature\bin\x86\Debug\AutoSlicingFeature.pdb
+c:\users\erick\documents\visual studio 2013\Projects\AutoSlicingFeature\AutoSlicingFeature\AutoSlicingFeature\obj\x86\Debug\AutoSlicingFeature.csprojResolveAssemblyReference.cache
+c:\users\erick\documents\visual studio 2013\Projects\AutoSlicingFeature\AutoSlicingFeature\AutoSlicingFeature\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\erick\documents\visual studio 2013\Projects\AutoSlicingFeature\AutoSlicingFeature\AutoSlicingFeature\obj\x86\Debug\AutoSlicingFeature.exe
+c:\users\erick\documents\visual studio 2013\Projects\AutoSlicingFeature\AutoSlicingFeature\AutoSlicingFeature\obj\x86\Debug\AutoSlicingFeature.pdb
+c:\users\erick\documents\visual studio 2013\Projects\AutoSlicingFeature\AutoSlicingFeature\AutoSlicingFeature\bin\x86\Debug\Content\complex.xnb
